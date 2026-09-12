@@ -91,16 +91,6 @@ Generative AI application for question answering over scientific research papers
 
 ---
 
-### 📊 Customer Churn Prediction
-
-End-to-end Data Science project covering data preparation, exploratory analysis, feature engineering, predictive modeling and evaluation.
-
-**Technologies:** Python, SQL, Pandas, Scikit-learn, XGBoost
-
-[View Project](./customer-churn-data-science)
-
----
-
 ## Research
 
 My research interests include:
